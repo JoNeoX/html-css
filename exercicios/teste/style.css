@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: #ffffff;
+    background-attachment: fixed;
+    
+}
+
+main {
+    margin: 15px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+    width: 80vw;
+    background-color: rgba(235, 235, 50, 0.671);
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    font: normal normal 1em 'Nunito';
+}
+
+h1 {
+    font-family: 'Lobster Two';
+    margin: auto;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+button:active {
+    color: yellow;
+}
+
